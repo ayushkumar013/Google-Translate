@@ -1,8 +1,15 @@
-# React + Vite
+# Google Translator Clone with Virtual Keyboard.
+  A Google Translator clone built using React and Material UI. This application allows you to translate text from one language to another using the MyMemory API. It also includes 
+  debouncing to optimize the translation process and a virtual keyboard for ease of input.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Mobile responsive.**
+  
+> Build using React and Material Ui.
 
-Currently, two official plugins are available:
+## Yes this is amazing.
+![image](https://github.com/ayushkumar013/Google-Translate/assets/145747837/b4478af0-4153-4286-a6fc-17793b4c18c4)
+## Totally functional Keyboard.
+![image](https://github.com/ayushkumar013/Google-Translate/assets/145747837/923e087a-8432-442e-8d43-cb4005ded33d)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
