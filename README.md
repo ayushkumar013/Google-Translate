@@ -3,7 +3,6 @@
   debouncing to optimize the translation process and a virtual keyboard for ease of input.
 
 **Mobile responsive.**
-![29cd649f-1987-4ddd-96b5-ab09b9355c6b](https://github.com/ayushkumar013/Google-Translate/assets/145747837/e10f47f4-48b5-4b3b-a9cf-2fbddfee752a)
 
   
 > Build using React and Material Ui.
@@ -13,6 +12,4 @@
 ## Totally functional Keyboard.
 ![image](https://github.com/ayushkumar013/Google-Translate/assets/145747837/923e087a-8432-442e-8d43-cb4005ded33d)
 
-
-
-
+![1f914304-624e-4b2c-bfb0-f501ad04f563](https://github.com/ayushkumar013/Google-Translate/assets/145747837/c983de52-206b-438c-9040-78b7ad27df11)
