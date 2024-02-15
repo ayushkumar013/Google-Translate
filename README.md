@@ -6,10 +6,10 @@
 
 > Build using React and Material Ui.
 ### Feature:
--Mobile Responsive.
--Translation using the MyMemory API.
--Debouncing to improve performance and reduce unnecessary API requests.
--Virtual keyboard integration for easy text input.
+- Mobile Responsive.
+- Translation using the MyMemory API.
+- Debouncing to improve performance and reduce unnecessary API requests.
+- Virtual keyboard integration for easy text input.
 
 ## Yes this is amazing.
 ![image](https://github.com/ayushkumar013/Google-Translate/assets/145747837/b4478af0-4153-4286-a6fc-17793b4c18c4)
