@@ -2,10 +2,14 @@
   A Google Translator clone built using React and Material UI. This application allows you to translate text from one language to another using the MyMemory API. It also includes 
   debouncing to optimize the translation process and a virtual keyboard for ease of input.
 
-**Mobile responsive.**
+[Live Demo](https://fancy-granita-427573.netlify.app/)
 
-  
 > Build using React and Material Ui.
+### Feature:
+-Mobile Responsive.
+-Translation using the MyMemory API.
+-Debouncing to improve performance and reduce unnecessary API requests.
+-Virtual keyboard integration for easy text input.
 
 ## Yes this is amazing.
 ![image](https://github.com/ayushkumar013/Google-Translate/assets/145747837/b4478af0-4153-4286-a6fc-17793b4c18c4)
